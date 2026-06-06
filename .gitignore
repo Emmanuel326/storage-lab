@@ -1,0 +1,10 @@
+bare_ring
+02_submit_nop
+03_simple_read
+04_simple_write
+05_batch
+06_fixed_buffers
+07_fixed_files
+08_sq_poll
+*.o
+*.out
